@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d//**)",
+      "Bash(ls -la /d/《移动开发编程》期末项目需求分析报告_参考模版*)",
+      "Bash(pip install *)",
+      "Bash(python3 -m pip install python-docx)",
+      "Bash(python3 *)",
+      "Bash(cd /d)",
+      "Bash(unzip -l \"《移动开发编程》期末项目需求分析报告_参考模版 \\(1\\).docx\")",
+      "Bash(mkdir -p /tmp/docx_extract)",
+      "Read(//tmp/**)",
+      "Bash(rm -rf *)",
+      "Bash(unzip -o \"D:/《移动开发编程》期末项目需求分析报告_参考模版 \\(1\\).docx\" -d .)",
+      "Bash(/c/Python*/python.exe --version)",
+      "Bash(where python *)",
+      "Bash(pip3 install *)"
+    ]
+  }
+}
