@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">图书借阅</string>
+    <string name="app_title">图书借阅</string>
+    <string name="copyright">© 2026 图书借阅 Library Manager</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="loading">加载中…</string>
+    <string name="no_data">暂无数据</string>
+</resources>

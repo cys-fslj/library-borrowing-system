@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="primary">#FF1565C0</color>
+    <color name="primary_dark">#FF0D47A1</color>
+    <color name="primary_light">#FF90CAF9</color>
+    <color name="accent">#FFFF6F00</color>
+    <color name="on_primary">#FFFFFFFF</color>
+
+    <!-- 中性色 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="bg_light">#FFF5F5F5</color>
+    <color name="bg_card">#FFFFFFFF</color>
+    <color name="white_alpha70">#B3FFFFFF</color>
+
+    <!-- 文字色 -->
+    <color name="text_primary">#DE000000</color>
+    <color name="text_secondary">#99000000</color>
+    <color name="text_hint">#61000000</color>
+
+    <!-- 状态色 -->
+    <color name="chip_stock_bg">#FFE3F2FD</color>
+    <color name="chip_borrowed_bg">#FFFFF3E0</color>
+    <color name="chip_borrowed_text">#FFE65100</color>
+    <color name="chip_returned_bg">#FFE8F5E9</color>
+    <color name="chip_returned_text">#FF2E7D32</color>
+    <color name="logout_red">#FFE53935</color>
+
+    <!-- 波纹 -->
+    <color name="ripple_color">#40000000</color>
+</resources>

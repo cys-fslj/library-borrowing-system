@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "图书借阅系统"
 include(":app")
- 
